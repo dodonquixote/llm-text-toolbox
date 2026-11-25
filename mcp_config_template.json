@@ -1,0 +1,1 @@
+{"mcpServers":{"llm-text-toolbox":{"args":["-m","llm_text_toolbox.server"],"command":"python","cwd":"/path/to/llm-text-toolbox"}}}
